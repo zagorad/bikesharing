@@ -3,6 +3,8 @@
 
 The purpose of the project is to use New York City’s Citibike’s services from August 2019 and retrieve the data to include the start and end time of the trips, trip duration and more information on the customers profiles. This data will be used to make a case for starting a City Bike company in Des Moines, Iowa.
 
+[NYC Bikeride](https://public.tableau.com/app/profile/duska.zagorac/viz/NYCBikeride/NYCBikesharing)
+
 ## Results
 ![Subscriber Pie Chart](https://user-images.githubusercontent.com/118132063/224523041-ece1144b-73f9-4f22-a5aa-f71c0b77097a.png)
 
